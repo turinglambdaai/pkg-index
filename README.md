@@ -1,5 +1,10 @@
 # Package Catalog Server
 
+This is the original implementation of the Racket package service. Its
+implementation has been merged into the larger
+[Racket package website](https://github.com/racket/racket-pkg-website/)
+as its **backend** component, and the copy here is no longer maintained.
+
 ## Dependencies
 
 Run `raco pkg install` to install all dependencies
